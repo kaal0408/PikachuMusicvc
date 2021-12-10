@@ -24,8 +24,8 @@ def start_pannel():
                 InlineKeyboardButton(text="🎚 Commands Menu", url="https://t.me/Murat_30_God/94")
             ],
             [ 
-                InlineKeyboardButton(text="📨Official Channel", url="https://t.me/status_galery_30"),
-                InlineKeyboardButton(text="📨Support Group", url="https://t.me/status_galery")
+                InlineKeyboardButton(text="📨Official Channel", url="https://t.me/PikachuX_logs"),
+                InlineKeyboardButton(text="📨Support Group", url="https://t.me/PikachuX_Support")
             ],
     ]
     return "🎛  **This is vc Music Bot**", buttons
@@ -38,9 +38,9 @@ pstart_markup=InlineKeyboardMarkup(
                 [InlineKeyboardButton("🧰 Cᴏᴍᴍᴀɴᴅꜱ 🧰", url=f"https://t.me/Murat_30_God/94")],
                 [
                     InlineKeyboardButton(
-                        "📢 Uᴘᴅᴀᴛᴇꜱ 📢", url=f"https://t.me/status_galery_30"), 
+                        "📢 Uᴘᴅᴀᴛᴇꜱ 📢", url=f"https://t.me/PikachuX_logs"), 
                     InlineKeyboardButton(
-                        "💬 Sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/status_galery")
+                        "💬 Sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/PikachuX_Support")
                 ],
                 [ InlineKeyboardButton("🧑‍💻 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 🧑‍💻", url=f"https://GitHub.com/kaal0408/Musicvc"),]
 
